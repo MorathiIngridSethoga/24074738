@@ -1,7 +1,7 @@
 import javax.swing.JOptionPane;
 public class BurmaShave.javax 
 { 
-    public static void main(strin[] args);
+    public static void main(string[] args);
 
 }
 JOptionPane.ShowMessageDialog(null ," Shaving brushes" );
