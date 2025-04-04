@@ -1,0 +1,14 @@
+import javax.swing.JOptionPane;
+public class BurmaShave.javax 
+{ 
+    public static void main(strin[] args);
+
+}
+JOptionPane.ShowMessageDialog(null ," Shaving brushes" );
+JOptionPane.ShowMessageDialog(null ," You'll see em " );
+JOptionPane.ShowMessageDialog(null , " On a shelf");
+JOptionPane.ShowMessageDialog(null , " In some meseum" );
+JOptionPane.ShowMessageDialog(null , " Burma shave");
+
+}
+}
